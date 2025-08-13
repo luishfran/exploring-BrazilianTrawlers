@@ -6,4 +6,4 @@ This repository will give you access to Brazilian Trawlers distribution within n
 - Blue Amazon shape -> https://www.seasketch.org/brasil/app
 
 ## Trawler fleet distribution
-![Alt text](exploring-BrazilianTrawlers/Rplot.png)
+![Alt text](Rplot.png)
