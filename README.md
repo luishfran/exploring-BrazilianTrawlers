@@ -1,5 +1,5 @@
 # Exploring operational boundaries of brazilian trawlers
-This repository will give you access to Brazilian Trawlers distribution within nation´s waters. 
+This repository will give you access to Brazilian Trawlers distribution within national waters. 
 
 ## Datasets
 - Brazilian fishing events -> https://github.com/GlobalFishingWatch/gfwr?tab=readme-ov-file
