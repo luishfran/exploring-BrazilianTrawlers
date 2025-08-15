@@ -32,7 +32,7 @@ bra_vessels <- get_vessel_info(
   key=key
 )
 
-# geathering vessel ID
+# gathering vessel ID
 each_BRA_trawler <- bra_vessels$selfReportedInfo[,c('index','vesselId')]
 
 # get events of brazilian trawlers from 2024
@@ -82,5 +82,6 @@ map_events <- leaflet() %>%
 map_events
 
 print("Well done! Now you know where trawlers operate in Brazilian Waters")
+
 
 
