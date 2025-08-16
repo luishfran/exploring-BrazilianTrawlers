@@ -1,4 +1,4 @@
-# Exploring operational boundaries of brazilian trawlers
+# An easy way to explore trawler fleets dynamics...
 This repository will give you access to Brazilian Trawlers distribution within national waters. 
 
 ## Datasets
